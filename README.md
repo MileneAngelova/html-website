@@ -1,2 +1,2 @@
 # html-website
-https://github.com/MileneAngelova/html-website
+https://mileneangelova.github.io/html-website
